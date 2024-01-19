@@ -1,0 +1,39 @@
+#campany{
+    background-image: url(img/aig-ai230829B017-xl_TP_V.jpg);
+    height: 600px;
+    margin-bottom: 40px;
+}
+#campany .page-title{
+    margin-top: 200px;
+    text-align: center;
+}
+footer{
+    background: #432;
+    text-align: center;
+    padding: 26px 0;
+}
+footer p{
+    color: #fff;
+    font-size: 0.875rem;
+}
+article{
+    width: 78%;
+}
+aside{
+    width: 22%;
+}
+.campany{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.wiseman{
+    width: 500px;
+    height: 400px;
+}
+.waisuman{
+    margin-left: 150px;
+}
+.card-img-top{
+    height: 200px;
+}

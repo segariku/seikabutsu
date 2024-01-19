@@ -1,0 +1,55 @@
+#it{
+    background-image: url(img/domain458A0442_TP_V.jpg);
+    height: 600px;
+    margin-bottom: 40px;
+}
+#it .page-title{
+    margin-top: 200px;
+    text-align: center;
+}
+footer{
+    background: #432;
+    text-align: center;
+    padding: 26px 0;
+}
+footer p{
+    color: #fff;
+    font-size: 0.875rem;
+}
+article{
+    width: 74%;
+}
+aside{
+    width: 22%;
+}
+.it-contents{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+article img{
+    width: 500px;
+    height: 500px;
+}
+.ithistory{
+    width: 700px;
+}
+.nethistory{
+    width: 700px;
+}
+.card-img-top{
+    height: 200px;
+}
+h4{
+    color: black;
+}
+.frame{
+    margin-bottom: 2rem;
+    display: flow-root;
+}
+.sub-title{
+    font-size: 1.375rem;
+    padding: 0 8px 8px;
+    border-bottom: 2px #0bd solid;
+    font-weight: normal;
+}

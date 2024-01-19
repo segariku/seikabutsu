@@ -1,0 +1,52 @@
+@charset "UTF-8";
+#news{
+    background-image: url(img/PAK_houdou9V9A7884_TP_V.jpg);
+    height: 600px;
+    margin-bottom: 40px;
+}
+#news .page-title{
+    margin-top: 200px;
+    text-align: center;
+}
+footer{
+    background: #432;
+    text-align: center;
+    padding: 26px 0;
+}
+footer p{
+    color: #fff;
+    font-size: 0.875rem;
+}
+article{
+    width: 74%;
+}
+aside{
+    width: 22%;
+}
+.news-contents{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+article img{
+    width: 500px;
+    height: 500px;
+}
+.hansin{
+    width: 700px;
+}
+.google{
+    width: 700px;
+}
+.card-img-top{
+    height: 200px;
+}
+h4{
+    color: black;
+}
+.sub-title{
+    font-size: 1.375rem;
+    padding: 0 8px 8px;
+    border-bottom: 2px #0bd solid;
+    font-weight: normal;
+}
