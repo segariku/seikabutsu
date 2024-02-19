@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+html{
+    font-size: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #0bd;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+
+.main-nav{
+    display: flex;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    margin-top: 100px;
+    list-style: none;
+    color: aliceblue;
+}
+
+.main-nav li{
+    margin-left: 36px;
+}
+
+.main-nav a:hover{
+    color: #0bd;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 4px;
+}
+
+.home-content{
+text-align: center;
+
+}
+
+.page-title{
+    font-size: 5rem;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #0cd341;
+    -webkit-text-stroke: white 1px;
+    margin-bottom: 10px;
+}
+
+.big-bg{
+    background-size: cover;
+    background-position: center top;
+}
+
+#home{
+    background-image: url(img/mrsgreenapple04_twitter.jpg);
+    min-height: 100vh;
+}
+#home .page-title{
+    text-transform: none;
+}
+
+.x{
+    margin-left: 250px;
+}
+.sns{
+    display: flex;
+}
+.sns img{
+    height: 50px;
+    width: 50px;
+    margin-left: 3px;
+}
+h4{
+    color: aliceblue;
+}
+.MGA{
+    color: #0cd341;
+    margin-left: 220px;
+    margin-right: 270px;
+}
