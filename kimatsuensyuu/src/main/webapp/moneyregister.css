@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+    background-image: url("img/bitcoin111154PAR55203_TP_V.webp");
+    background-size: cover;
+    background-position: center;
+
+}
+
+h2{
+    margin-left: 500px;
+    margin-top: 200px;
+    color: white;
+}
+
+form{
+    margin-left: 500px;
+}
+
+p{
+    color: yellowgreen;
+}
+

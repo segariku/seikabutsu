@@ -1,0 +1,25 @@
+html,
+body {
+    height: 100%;
+    background-image: url("img/6f8529e366808a166e490931e9894c421ff74c37.90.9.9.3.png");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    padding: 1rem;
+    margin-top: 200px;
+    margin-right: 300px;
+    margin-left: 400px;
+    color: white;
+}
+form{
+    max-width: 300px;
+    padding: 1rem;
+    margin-left:300px;
+}
+p{
+    max-width: 300px;
+    padding: 1rem;
+    margin-left:400px;
+    color: yellowgreen;
+}

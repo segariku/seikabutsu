@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100%;
+    background-image: url("img/6f8529e366808a166e490931e9894c421ff74c37.90.9.9.3.png");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: white;
+}
+p{
+    color: yellowgreen;
+}
+

@@ -1,0 +1,42 @@
+html,
+body {
+    height: 100%;
+    background-image: url("img/unificsanunific2220903394_TP_V.webp");
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    padding: 1rem;
+    margin-top: 200px;
+    margin-right: 300px;
+    margin-left: 400px;
+    color: white;
+}
+.comment h2{
+    padding: 1rem;
+    margin-right: 300px;
+    margin-left: 400px;
+    color: white;
+}
+h4{
+    padding: 1rem;
+    margin-right: 300px;
+    margin-left: 400px;
+    color: white;
+}
+h3{
+    padding: 1rem;
+    margin-top: 150px;
+    margin-right: 300px;
+    margin-left: 400px;
+    color: white;
+}
+form{
+    max-width: 300px;
+    padding: 1rem;
+    margin-left:400px;
+}
+p{
+color: white;
+}
+
